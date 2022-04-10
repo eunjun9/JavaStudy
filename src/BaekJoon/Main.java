@@ -1,4 +1,4 @@
-package study;
+package BaekJoon;
 
 import java.util.Scanner;
 
