@@ -15,7 +15,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int h = sc.nextInt();
-        int m = sc.nextInt(); //추가
+        int m = sc.nextInt();
 
         if(m < 45) { // 입력한 분이 45분이 되지 않을 때  ex)10:10
             h -= 1; // 먼저 시에서 -1 해주어야 함
